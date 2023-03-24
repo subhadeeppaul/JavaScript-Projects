@@ -12,3 +12,9 @@ Inspired by Jennifer Dewalt's [180 websites in 180 days](https://jenniferdewalt.
 * [x] ✏️ Etch A Sketch 
 * [x] 📑 Tabs
 
+
+## Resources 
+- [Advent of Code](https://adventofcode.com/)
+- [Coder Projects](https://googlecreativelab.github.io/coder-projects/)
+- [Reddit: Daily Programmer Challenges](https://www.reddit.com/r/dailyprogrammer/wiki/challenges/)
+- [Mega Project List](https://github.com/karan/Projects)
