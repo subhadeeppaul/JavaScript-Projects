@@ -1,1 +1,4 @@
-# JavaScript-Projects
+# JavaScript Projects
+
+* [x] ✏️ Etch A Sketch 
+
