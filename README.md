@@ -14,6 +14,7 @@ Inspired by Jennifer Dewalt's [180 websites in 180 days](https://jenniferdewalt.
 * [x] 🎨 Color-Flipper
 * [x] 🧮 Counter
 * [x] ⭐ Review
+* [x] ⚡ Modal
 
 
 ## Resources 
