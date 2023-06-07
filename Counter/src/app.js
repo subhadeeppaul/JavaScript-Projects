@@ -3,6 +3,7 @@ const btnDecrease = document.querySelector(".btn-decrease");
 const btnReset = document.querySelector(".btn-reset");
 const btnIncrease = document.querySelector(".btn-increase");
 
+//Set Initial count
 let numberCounter = 0;
 
 function changeCounter(number) {
