@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // Select the elements on the page - canvas, shake button
 const canvas = document.querySelector('#etch-a-sketch');
 const ctx = canvas.getContext('2d');
