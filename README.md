@@ -16,6 +16,7 @@ Inspired by Jennifer Dewalt's [180 websites in 180 days](https://jenniferdewalt.
 * [x] ⭐ Review
 * [x] ⚡ Modal
 * [x] 🤔 Question
+* [x] 📜 Scroll
 
 
 ## Resources 
